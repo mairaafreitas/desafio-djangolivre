@@ -1,0 +1,2 @@
+1- Adicionar o Gitignore 
+  https://github.com/github/gitignore/blob/master/Python.gitignore
