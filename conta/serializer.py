@@ -4,4 +4,4 @@ from rest_framework import serializers
 class ContaSerializer(serializers.ModelSerializer):
     class Meta:
         model= Conta
-        fields= ['agência', 'conta','saldo']
+        fields= ['agencia', 'conta','saldo']
