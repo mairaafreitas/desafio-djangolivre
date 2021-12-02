@@ -4,4 +4,4 @@ from rest_framework import serializers
 class TransferenciaSerializer(serializers.ModelSerializer):
     class Meta:
         model = Transferencia
-        fields = ['remetente', 'favorecido', 'valor', 'data']
+        fields = ['remetente', 'favorecido', 'valor']
