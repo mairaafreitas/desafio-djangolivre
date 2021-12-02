@@ -1,5 +1,6 @@
-from django.db import models
 from conta.models import Conta
+from django.db import models
+
 
 class Usuario(models.Model):
     nome = models.CharField(max_length=80, blank=False)
@@ -10,5 +11,3 @@ class Usuario(models.Model):
 
     def __str__(self) -> str:
         return self.nome
-
- 

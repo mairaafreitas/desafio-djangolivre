@@ -1,11 +1,9 @@
 from conta.views import ContaViewSet
-from transferencia.models import Transferencia
+from django.contrib import admin
+from django.urls import include, path
+from rest_framework.routers import DefaultRouter
 from transferencia.views import TransferenciaViewSet, executa_transferencia
 from usuario.views import UsuarioViewSet
-from django.urls import path, include
-from rest_framework.routers import DefaultRouter
-from django.contrib import admin
-
 
 router = DefaultRouter()
 
