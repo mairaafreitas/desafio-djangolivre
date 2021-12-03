@@ -84,7 +84,7 @@ POST localhost:8000/transferencia/
 
 
 ## Autoras
-* [**Andreia Baumgratz**](https://github.com/andbaumgartner)
+* [**Andreia Baumgartner**](https://github.com/andbaumgartner)
 * [**Beatriz Magalhães**](https://github.com/Beatrizsms)
 * [**Giullia Ramos**](https://github.com/jujups)
 * [**Jacqueline Marques**](https://github.com/JacquelineMarques)
