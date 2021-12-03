@@ -1,7 +1,7 @@
 # Desafio final do programa Construdelas
 
 ## Descrição
-O desafio proposto pela Juntos Somos Mais, como parte do programa ConstruDelas, é a criação de uma API para gerenciar as transações do banco DjangoLivre.
+O desafio proposto pela Juntos Somos Mais juntamente com a Gama Academy, como parte do programa ConstruDelas, é a criação de uma API para gerenciar as transações do banco DjangoLivre.
 
 Esse sistema que criamos, permite o cadastro de novos clientes que ficará atrelado a uma conta bancária. No DjangoLivre é possível fazer transferências de um cliente para outro, com histórico de transações entre as contas para compliance.
 
